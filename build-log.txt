@@ -2,3 +2,5 @@ npm init -y
 mkdir -p src/client
 mkdir -p dist
 touch ./src/index.html ./src/index.js ./src/client/App.js .babelrc webpack.config.js .gitignore
+
+Populated .babelrc, webpack.config.js, .gitignore
